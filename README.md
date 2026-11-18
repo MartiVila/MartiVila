@@ -1,8 +1,8 @@
-# Hi there, I'm Martí! 👋 ✨
+# Hya, I'm Martí! 👋 ✨
 
-### 3rd Year Computer Science Student | IA & Data Enthusiast | Adventurer
+### 4th Year Computer Science Student | IA & Data Enthusiast | Adventurer
 
-I’m a positive and driven developer finishing up my 3rd year of Computer Science. My heart lies in uncovering patterns in data and building autonomous systems, though I enjoy crafting clean UI/UX during my "creative breaks." When I'm not behind a screen, you'll probably find me planning my next travel somewhere in the world!
+I’m a positive and driven developer finishing up my 4th year of Computer Science. My heart lies in uncovering patterns in data and building autonomous systems, though I enjoy crafting clean UI/UX during my "creative breaks." When I'm not behind a screen, you'll probably find me planning my next travel somewhere in the world!
 
 ---
 
@@ -33,7 +33,7 @@ I’m a positive and driven developer finishing up my 3rd year of Computer Scien
 
 ### Current Focus
 - Deepening my expertise in **AI and Data**.
-- Exploring new cultures and cities.
+- Exploring new cultures and cities. Going to Tromso for Erasmus next Semester!
 - Finishing my degree in CS!
 
 ### Contact me!
@@ -45,5 +45,5 @@ I'm a very friendly person and love meeting new people!
 ---
 
 ### My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MartiVila&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartiVila&layout=compact&theme=radical)
